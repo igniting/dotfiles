@@ -15,7 +15,8 @@ call vundle#begin()
 " Let Vunlde manage Vundle
 Plugin 'gmarik/Vundle.vim'
 " Nice status bar
-Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 " Undo tree
 Plugin 'vim-scripts/Gundo'
 " Solarized color scheme
